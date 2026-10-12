@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="BASS PRO" commit="2">
+  <category name="Plugins">
+    <reapack name="BASS_PRO.jsfx" type="effect" desc="BASS PRO - Bass Guitar Enhancer and Dynamics Leveler">
+      <version name="2.0.0" author="Sonic Anomaly" time="2026-10-12T00:00:00Z">
+        <source file="Plugins/BASS_PRO.jsfx">
+          https://raw.githubusercontent.com/HEXCODE89/BASS-PRO/main/Plugins/BASS_PRO.jsfx
+        </source>
+      </version>
+    </reapack>
+    <reapack name="BASS PRO.jsfx" type="effect" desc="BASS PRO - Bass Guitar Enhancer and Dynamics Leveler">
+      <version name="2.0.0" author="Sonic Anomaly" time="2026-10-12T00:00:00Z">
+        <source file="Plugins/BASS PRO.jsfx">
+          https://raw.githubusercontent.com/HEXCODE89/BASS-PRO/main/Plugins/BASS%20PRO.jsfx
+        </source>
+      </version>
+    </reapack>
+  </category>
+</index>

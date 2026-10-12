@@ -1,11 +1,30 @@
-<div align="center">
+# BASS PRO ReaPack Repository
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This repository provides **BASS PRO** for Cockos REAPER via [ReaPack](https://reapack.com/).
 
-  <h1>Built with AI Studio</h2>
+## How to install via ReaPack in REAPER
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1. Open **REAPER**.
+2. Go to: **Extensions > ReaPack > Import repositories...**
+3. Paste the repository URL:
+   ```
+   https://raw.githubusercontent.com/HEXCODE89/BASS-PRO/main/index.xml
+   ```
+4. Click **OK**.
+5. Go to: **Extensions > ReaPack > Browse packages...**
+6. Search for **BASS PRO**, right-click and click **Install**.
+7. Click **Apply** in the bottom-right corner of the window.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Direct Installation (Without ReaPack)
 
-</div>
+If you do not use ReaPack:
+1. Download `Plugins/BASS_PRO.jsfx` (or `Plugins/BASS PRO.jsfx`).
+2. In REAPER, click **Options > Show REAPER resource path in explorer/finder...**
+3. Open the **Effects** folder.
+4. Paste the `.jsfx` file inside.
+5. In REAPER's FX browser, press **F5** (Scan for new plugins).
+
+## Included Packages
+
+- `Plugins/BASS_PRO.jsfx`: BASS PRO - Bass Guitar Enhancer and Dynamics Leveler
+- `Plugins/BASS PRO.jsfx`: Compatibility alias
